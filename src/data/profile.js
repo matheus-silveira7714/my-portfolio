@@ -1,14 +1,14 @@
 const ProfileData = {
   img: require("../assets/Images/hero.png"),
   logo: require("../assets/Images/Name.png"),
-  name: "Vijay Kumar",
-  professions: ["Web Developer", "Free Lancer", "Enthusiastic Dev"],
+  name: "Matheus Silveira",
+  professions: ["Full Stack Developer", "CMS Expert", "Enthusiastic Dev"],
   info: [
-    "Knack of building web applications using MERN stack.",
-    "I enjoy designing tech websites.",
+    "Knack of building web applications using MERN stack and CMS platforms.",
+    "Passionate about learning and exploring new technologies.",
   ],
   resume:
-    "https://drive.google.com/drive/u/1/folders/1VLbE3u0gC3x66ClPWCUmcK75DuhTAyKx",
+    "https://drive.google.com/file/d/1q2NqdxtyjqPRiiYMj0jbm_6qdNZhB2sY/view?usp=sharing", 
 };
 
 export default ProfileData;
